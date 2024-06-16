@@ -1,1 +1,5 @@
-# .dotfiles
+# My mac dotfiles
+
+## Before reinstall
+
+## 
