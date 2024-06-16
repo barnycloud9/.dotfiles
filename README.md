@@ -2,4 +2,6 @@
 
 ## Before reinstall
 
-## 
+## TODO
+
+- [ ] symlink .zprofile
