@@ -4,4 +4,4 @@
 
 ## TODO
 
-- [ ] symlink .zprofile
+- [x] symlink .zprofile
